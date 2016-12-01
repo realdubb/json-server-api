@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "type": "account",
+      "attributes": {
+        "name": "bofa",
+        "description": "bofa bank"
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
