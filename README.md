@@ -1,3 +1,19 @@
+
+## To use:
+`npm install -g json-server`
+
+`npm link json-server`
+
+`node server.js`
+
+### In ember
+
+`ember server --proxy http://localhost:3000`
+
+---
+*Below are original instruction from json-server npm package*
+---
+
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
 
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
